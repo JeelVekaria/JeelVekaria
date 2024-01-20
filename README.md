@@ -3,6 +3,7 @@
 - 👀 Seeking 2024 Summer position
 - 🎓 Graduating with BSc in Computer Science from Tornto Metropolitan University 2027
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/jeelvekaria/)
+- 🌐 Find me on [Portfolio](https://jvekaria.vercel.app/)
 
 ## Skills
 
